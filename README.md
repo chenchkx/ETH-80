@@ -3,3 +3,32 @@ For each category, there are 10 object instances and 41 images for each object i
 The task is to classify an image set of an object into a known category.
 
 [1] B. Leibe and, B.Schiele. Analyzing Appearance and Contour Based Methods for Object Categorization. CVPR, vol.2, pp. 409-415, 2003
+
+
+
+Also, you can find more applications at:  
+1. https://github.com/Kai-Xuan/RiemannianCovDs/  
+BibTex : 
+```
+@article{chen2020covariance,
+  title={Covariance Descriptors on a Gaussian Manifold and their Application to Image Set Classification},
+  author={Chen, Kai-Xuan and Ren, Jie-Yi and Wu, Xiao-Jun and Kittler, Josef},
+  journal={Pattern Recognition},
+  pages={107463},
+  year={2020},
+  publisher={Elsevier}
+}
+```
+
+2. https://github.com/Kai-Xuan/iCovDs/  
+BibTex : 
+```
+@inproceedings{chen2019more,
+  title={More About Covariance Descriptors for Image Set Coding: Log-Euclidean Framework based Kernel Matrix Representation},
+  author={Chen, Kai-Xuan and Wu, Xiao-Jun and Ren, Jie-Yi and Wang, Rui and Kittler, Josef},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+```
+

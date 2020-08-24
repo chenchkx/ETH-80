@@ -28,5 +28,8 @@ BibTex :
 ```
 
 
-References
+
+
+References  
+
 [1] B. Leibe and, B.Schiele. Analyzing Appearance and Contour Based Methods for Object Categorization. CVPR, vol.2, pp. 409-415, 2003

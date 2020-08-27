@@ -15,19 +15,19 @@ BibTex :
 }
 ```
 
-2. https://github.com/Kai-Xuan/iCovDs/  
+2.
 BibTex : 
 ```
-@inproceedings{chen2019more,
-  title={More About Covariance Descriptors for Image Set Coding: Log-Euclidean Framework based Kernel Matrix Representation},
-  author={Chen, Kai-Xuan and Wu, Xiao-Jun and Ren, Jie-Yi and Wang, Rui and Kittler, Josef},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
-  pages={0--0},
-  year={2019}
+@inproceedings{leibe2003analyzing,
+  title={Analyzing appearance and contour based methods for object categorization},
+  author={Leibe, Bastian and Schiele, Bernt},
+  booktitle={2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.},
+  volume={2},
+  pages={II--409},
+  year={2003},
+  organization={IEEE}
 }
 ```
-
-
 
 
 References  
